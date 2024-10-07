@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import Map from './components/Map';
+import Map from './Pages/Map';
 
 export default function App() {
   return (
